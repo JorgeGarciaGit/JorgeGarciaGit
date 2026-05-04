@@ -2,21 +2,26 @@
 
 ## 👋 About me
 
-I’m a <b>software engineer</b> with a strong backend foundation in the <b>.NET ecosystem</b> and growing experience building modern web platforms with <b>Next.js</b> and <b>Angular</b>.
+Software engineer with a strong backend foundation in the **.NET ecosystem**, currently expanding into modern web development with **Next.js** and **Angular**.
 
-I enjoy turning messy requirements into clean systems, working close to data, <b>APIs</b>, and <b>business rules</b>. I care about <strong>structure</strong>, <strong>readability</strong>, and <strong>shipping things that don’t collapse six months later</strong>.
+I focus on building systems that are:
+- structurally sound  
+- easy to maintain  
+- aligned with real business rules  
 
-I’m also a musician—composition and improvisation trained my brain to recognize patterns, iterate deliberately, and stay patient with complex systems.
+I enjoy working close to **APIs, data, and system design**, translating complex requirements into predictable software.
+
+Outside of engineering, I’m a musician. Composition and improvisation influence how I think about systems: patterns, iteration, and long-term structure.
 
 ---
 
-## 🧠 Core engineering stack
+## 🧠 Core stack
 
-**Backend & Platforms**  
-ASP.NET · .NET Core · .NET Framework · C#
+**Backend**
+- C# · .NET Core · ASP.NET Core · .NET Framework
 
-**Frontend**  
-Next.js · Angular · JavaScript · HTML · CSS
+**Frontend**
+- Next.js · Angular · JavaScript · HTML · CSS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,nextjs,angular,js,html,css" />
@@ -24,7 +29,7 @@ Next.js · Angular · JavaScript · HTML · CSS
 
 ---
 
-## 🛠️ Tools I work with daily
+## 🛠️ Tools & technologies
 
 Azure · RabbitMQ · Elasticsearch · Postman · PowerShell · Visual Studio · Unity
 
@@ -34,9 +39,12 @@ Azure · RabbitMQ · Elasticsearch · Postman · PowerShell · Visual Studio · 
 
 ---
 
-## 📚 Currently learning & sharpening
+## 📚 Currently improving
 
-TypeScript · Docker · Better system design · Clean architecture
+- TypeScript  
+- Docker  
+- System design fundamentals  
+- Clean architecture  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,docker&theme=dark" />
@@ -44,7 +52,7 @@ TypeScript · Docker · Better system design · Clean architecture
 
 ---
 
-## 🗄️ Databases & data
+## 🗄️ Data layer
 
 PostgreSQL · MySQL · Supabase
 
@@ -52,99 +60,85 @@ PostgreSQL · MySQL · Supabase
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" />
 </p>
 
+---
 
+## 🌍 Career direction
+
+I’m focused on joining international teams where I can:
+- build production-grade distributed systems  
+- improve system design depth  
+- contribute to scalable backend architectures  
 
 ---
 
-## 🌍 What I’m aiming for
+## 🧩 Selected projects
 
-Building production-grade software with international teams, improving my system design depth, and contributing to products that scale beyond “it works on my machine.”
+### 📌 Lottery ticket digitization & validation platform
+
+**Context**  
+National lottery system requiring secure validation and traceability of physical tickets.
+
+**Contribution**
+- End-to-end system design and implementation  
+- Backend services (.NET + APIs + messaging)  
+- SQL Server data model and audit structure  
+- WinForms + PDA applications for operational teams  
+- Message-driven architecture for reliability
+
+**Impact**
+- ~80% reduction in processing time  
+- Improved traceability and auditability  
+- Production deployment in regulated environment  
 
 ---
 
-## 🗄️ Success Cases
-
-### 📌 Lottery Ticket Digitization & Validation Platform
+### 📌 PPE management system (ERP module suite)
 
 **Context**  
-National-scale lottery operations required secure handling of winning tickets, combining physical validation with digital traceability.
+Enterprise safety system for managing PPE lifecycle and compliance.
 
-**My role**  
-Planned, designed, implemented, deployed, and maintained the full solution end-to-end.
+**Contribution**
+- Designed and delivered 6 modules end-to-end  
+- Implemented workflows for request → approval → delivery → confirmation  
+- Built reporting and traceability layer  
 
-**What I built**  
-- Web services connecting OCR processing with centralized data storage  
-- SQL Server databases for secure and auditable record keeping  
-- WinForms applications for internal data entry personnel  
-- Xamarin-based PDA applications for field operations  
-- Microservices handling message brokers and queued requests to ensure reliability and scalability
+**Impact**
+- End-to-end process automation  
+- Improved compliance tracking  
+- ~97% on-time operational execution across deployments  
 
-**Impact**  
-- Reduced end-to-end processing time by **~80%**  
-- Increased operational reliability for sensitive financial data  
-- Introduced a modern, traceable digital workflow in a highly regulated environment in Colombia  
-- Delivered **on time** and successfully adopted in production
+---
 
-### 📌 PPE Delivery Management Modules (SOH ERP)
+### 📌 Unity & interactive multimedia projects
 
 **Context**  
-Safety & Occupational Health ERP platform requiring traceable, auditable management of Personal Protective Equipment (PPE) delivery to employees.
+Educational and narrative-driven interactive experiences.
 
-**My role**  
-Designed, developed, and delivered **6 functional modules**, working closely with business rules and operational workflows.
+**Projects**
+- *1948*: narrative hidden-object game  
+- *El bosque de Hiria*: accessibility-focused RPG  
+- *Papelador*: character customization mini-game  
+- *Constelaciones*: pattern-linking puzzle game  
+- *El cactus de la memoria*: interactive e-book  
 
-**Modules delivered**  
-- Employee PPE request submission  
-- Administrative review and approval/rejection of requests  
-- Delivery planning and scheduling (admin)  
-- PPE delivery execution (admin)  
-- Employee acceptance confirmation  
-- Reporting and traceability
-
-**Impact**  
-- Streamlined end-to-end PPE delivery workflows  
-- Improved control and traceability for compliance purposes  
-- Contributed to a **97% on-time delivery rate** across SOH ERP projects  
-- Stable usage in production environments
-
-### 📌 Videogames in Unity and JavaScript
-
-**Context**  
-Multimedia projects such as Video Games, e-Books, and learning materials.
-
-**My role**  
-Development and deployment of video games, working closely with Graphic designers, Teachers, and different stakeholders.
-
-**Games delivered**  
-- 1948: Hidden-object phone game telling the story of one of the government leaders in Colombia.
-- El bosque de Hiria: RPG mobile game for visually impaired people.
-- Papelador: Mini game to dress a character.
-- Constelaciones: Mini game to link the points on a board.
-- "El cactus de la memoria": E-Book about a historical moment in Colombia. 
-
-** Previews **  
-
-<img width="1280" height="800" alt="portada" src="https://github.com/user-attachments/assets/207463fb-3267-4230-8bc6-e8f658f1bcba" />
-
-![Screenshot 9](https://github.com/user-attachments/assets/9b9c8c55-5b4d-41f0-afcc-7a0fcef587ac)
-<img width="2400" height="1080" alt="Screenshot_20240103-133440" src="https://github.com/user-attachments/assets/3cf33665-1dfb-4e4b-9b51-b5fc935feb3a" />
-<img width="2400" height="1080" alt="Screenshot_20240103-133509" src="https://github.com/user-attachments/assets/b33eb9cb-6a31-471c-bedf-add2e9e4ac9a" />
+<p align="center">
+  <img width="1280" height="800" alt="preview" src="https://github.com/user-attachments/assets/207463fb-3267-4230-8bc6-e8f658f1bcba" />
+</p>
 
 ---
 
 ## 🎸 Outside of code
 
-Musician and composer, working with Ableton Live.  
-Music keeps my engineering honest: structure matters, timing matters, and practice compounds.
+Musician and composer using Ableton Live.
+
+Music influences how I approach engineering: timing, structure, and iteration under constraints.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ableton&theme=dark" />
 </p>
 
-
 ---
 
-### :alien: Things I build
+### 🧭 Explore
 
-Scroll down to explore public projects where ideas turn into working systems.  :arrow_heading_down:
-
+Below are repositories where ideas are turned into working systems.
