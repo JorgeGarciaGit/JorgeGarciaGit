@@ -1,27 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Jorge+Garcia;Call+me+George+or+Giorgio;Software+Engineer+%26+Musician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jorge+Garcia+—+Software+Engineer;Backend+focused+%7C+.NET+%7C+System+Design)](https://git.io/typing-svg)
 
-## 👋 About me
+## 👋 Overview
 
-Software engineer with a strong backend foundation in the **.NET ecosystem**, currently expanding into modern web development with **Next.js** and **Angular**.
+Software engineer focused on backend systems and distributed application design, primarily in the **.NET ecosystem**.
 
-I focus on building systems that are:
-- structurally sound  
-- easy to maintain  
-- aligned with real business rules  
+I work on building software that prioritizes:
+- predictable behavior under load  
+- maintainable architecture over time  
+- clear separation of concerns  
+- alignment between business rules and implementation  
 
-I enjoy working close to **APIs, data, and system design**, translating complex requirements into predictable software.
-
-Outside of engineering, I’m a musician. Composition and improvisation influence how I think about systems: patterns, iteration, and long-term structure.
+Most of my experience comes from designing and delivering systems in production environments with real operational constraints.
 
 ---
 
-## 🧠 Core stack
+## 🧠 Technical focus
 
-**Backend**
-- C# · .NET Core · ASP.NET Core · .NET Framework
+**Backend & Architecture**
+- C# · .NET Core · ASP.NET Core · .NET Framework  
+- REST APIs · Microservices · Event-driven systems  
+- Clean Architecture · Domain-oriented design  
 
-**Frontend**
-- Next.js · Angular · JavaScript · HTML · CSS
+**Frontend (supporting role)**
+- Angular · Next.js · JavaScript · HTML · CSS  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,nextjs,angular,js,html,css" />
@@ -29,109 +30,89 @@ Outside of engineering, I’m a musician. Composition and improvisation influenc
 
 ---
 
-## 🛠️ Tools & technologies
+## ⚙️ Infrastructure & tooling
 
-Azure · RabbitMQ · Elasticsearch · Postman · PowerShell · Visual Studio · Unity
+- Azure (App Services, CI/CD pipelines)  
+- RabbitMQ (message-based communication)  
+- Elasticsearch (search and indexing systems)  
+- SQL Server · PostgreSQL · MySQL  
+- Docker (in progress)  
+- Visual Studio · Postman · PowerShell  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,rabbitmq,elasticsearch,postman,powershell,visualstudio,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,rabbitmq,elasticsearch,docker,visualstudio,postman,powershell" />
 </p>
 
 ---
 
-## 📚 Currently improving
+## 🧩 Selected engineering work
 
-- TypeScript  
-- Docker  
-- System design fundamentals  
-- Clean architecture  
+### 📌 Distributed lottery validation platform
+
+System designed for secure processing and validation of physical lottery tickets using OCR and centralised data storage.
+
+**Responsibilities**
+- System architecture and full implementation lifecycle  
+- API design and backend services in .NET  
+- SQL Server schema design with auditability constraints  
+- Desktop + PDA applications for operational workflows  
+- Message-based processing for reliability and decoupling  
+
+**Outcome**
+- Reduced processing time by ~80%  
+- Introduced traceable digital workflow for regulated operations  
+- Deployed in production across a national-scale environment  
+
+---
+
+### 📌 PPE lifecycle management system (ERP module suite)
+
+Enterprise module set for managing PPE distribution and compliance tracking.
+
+**Responsibilities**
+- Designed end-to-end workflow architecture  
+- Implemented full request/approval/delivery lifecycle  
+- Built reporting and traceability components  
+- Integrated business rules into backend services  
+
+**Outcome**
+- Standardized PPE operational workflow across organization  
+- Improved traceability and compliance enforcement  
+- ~97% on-time delivery performance in production use  
+
+---
+
+### 📌 Interactive software & Unity systems
+
+Built multiple interactive applications and educational experiences in collaboration with designers and stakeholders.
+
+Examples:
+- narrative-driven hidden-object game (*1948*)  
+- accessibility-focused RPG (*El bosque de Hiria*)  
+- educational puzzle systems (*Constelaciones*)  
+- interactive e-book systems (*El cactus de la memoria*)  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,docker&theme=dark" />
+  <img width="1280" height="800" src="https://github.com/user-attachments/assets/207463fb-3267-4230-8bc6-e8f658f1bcba" />
 </p>
 
 ---
 
-## 🗄️ Data layer
+## 📈 Current direction
 
-PostgreSQL · MySQL · Supabase
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" />
-</p>
-
----
-
-## 🌍 Career direction
-
-I’m focused on joining international teams where I can:
-- build production-grade distributed systems  
-- improve system design depth  
-- contribute to scalable backend architectures  
+Focus areas:
+- deeper system design understanding (distributed systems, scaling patterns)  
+- stronger backend architecture decisions in .NET  
+- improved DevOps and deployment fluency  
+- transitioning toward senior-level ownership of backend systems  
 
 ---
 
-## 🧩 Selected projects
+## 🎸 Outside engineering
 
-### 📌 Lottery ticket digitization & validation platform
+Music composition and improvisation using Ableton Live.
 
-**Context**  
-National lottery system requiring secure validation and traceability of physical tickets.
-
-**Contribution**
-- End-to-end system design and implementation  
-- Backend services (.NET + APIs + messaging)  
-- SQL Server data model and audit structure  
-- WinForms + PDA applications for operational teams  
-- Message-driven architecture for reliability
-
-**Impact**
-- ~80% reduction in processing time  
-- Improved traceability and auditability  
-- Production deployment in regulated environment  
-
----
-
-### 📌 PPE management system (ERP module suite)
-
-**Context**  
-Enterprise safety system for managing PPE lifecycle and compliance.
-
-**Contribution**
-- Designed and delivered 6 modules end-to-end  
-- Implemented workflows for request → approval → delivery → confirmation  
-- Built reporting and traceability layer  
-
-**Impact**
-- End-to-end process automation  
-- Improved compliance tracking  
-- ~97% on-time operational execution across deployments  
-
----
-
-### 📌 Unity & interactive multimedia projects
-
-**Context**  
-Educational and narrative-driven interactive experiences.
-
-**Projects**
-- *1948*: narrative hidden-object game  
-- *El bosque de Hiria*: accessibility-focused RPG  
-- *Papelador*: character customization mini-game  
-- *Constelaciones*: pattern-linking puzzle game  
-- *El cactus de la memoria*: interactive e-book  
-
-<p align="center">
-  <img width="1280" height="800" alt="preview" src="https://github.com/user-attachments/assets/207463fb-3267-4230-8bc6-e8f658f1bcba" />
-</p>
-
----
-
-## 🎸 Outside of code
-
-Musician and composer using Ableton Live.
-
-Music influences how I approach engineering: timing, structure, and iteration under constraints.
+This practice influences my engineering approach: structured systems, controlled variation, and iterative refinement under constraints.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ableton&theme=dark" />
@@ -139,6 +120,6 @@ Music influences how I approach engineering: timing, structure, and iteration un
 
 ---
 
-### 🧭 Explore
+## 🧭 Projects
 
-Below are repositories where ideas are turned into working systems.
+Repositories below reflect systems built from concept to production, with focus on backend design, reliability, and maintainability.
