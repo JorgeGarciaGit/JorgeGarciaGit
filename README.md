@@ -4,8 +4,8 @@
 
 Software engineer focused on backend systems and distributed application design, primarily in the **.NET ecosystem**.
 
-I work on building software that prioritizes:
-- predictable behavior under load  
+I work on building software that prioritises:
+- predictable behaviour under load  
 - maintainable architecture over time  
 - clear separation of concerns  
 - alignment between business rules and implementation  
@@ -76,7 +76,7 @@ Enterprise module set for managing PPE distribution and compliance tracking.
 - Integrated business rules into backend services  
 
 **Outcome**
-- Standardized PPE operational workflow across organization  
+- Standardised PPE operational workflow across the organisation  
 - Improved traceability and compliance enforcement  
 - ~97% on-time delivery performance in production use  
 
