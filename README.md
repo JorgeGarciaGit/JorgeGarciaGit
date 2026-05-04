@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jorge+Garcia+—+Software+Engineer;Backend+focused+%7C+.NET+%7C+System+Design+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jorge+Garcia+—+Software+Engineer;Backend+focused+%7C+.NET)](https://git.io/typing-svg)
 
 ## 👋 Overview
 
