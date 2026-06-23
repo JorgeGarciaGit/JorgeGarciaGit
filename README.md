@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jorge+Garcia+—+Software+Engineer;Backend+focused+%7C+.NET)](https://git.io/typing-svg)
 
+## 🌐 Portfolio
+🔗 https://foxtailstudio.app/
+
 ## 👋 Overview
 
 Software engineer focused on backend systems and distributed application design, primarily in the **.NET ecosystem**.
