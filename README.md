@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jorge+Garcia+—+Software+Engineer;Backend+focused+%7C+.NET)](https://git.io/typing-svg)
 
-## 🌐 Portfolio
-🔗 https://foxtailstudio.app/
+## 🌐 Personal Projects Portfolio (Enterprise and CV Below)
+🔗 [Music Trainer](https://foxtailstudio.app/) | Next.Js | C# | PostgreSQL | Railway | June 2026
+
+🔗 [Music Portfolio](https://giorgio-moreno-portfolio.vercel.app/) | Next.Js | August 2026
 
 ## 👋 Overview
 
-Software engineer focused on backend systems and distributed application design, primarily in the **.NET ecosystem**.
+Software engineer with 7+ years of experience focused on backend systems and distributed application design, primarily in the **.NET ecosystem**.
 
 I work on building software that prioritises:
 - predictable behaviour under load  
