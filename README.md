@@ -2,8 +2,12 @@
 
 ## 🌐 Personal Projects Portfolio (Enterprise and CV Below)
 🔗 [Music Trainer](https://foxtailstudio.app/) | Next.Js | C# | PostgreSQL | Railway | June 2026
+
 🔗 [Music Portfolio](https://giorgio-moreno-portfolio.vercel.app/) | Next.Js | Redis | Resend | August 2026 
+
 📄 [Download my CV](./Jorge_Garcia_CV.pdf)
+
+
 
 ## 👋 Overview
 
