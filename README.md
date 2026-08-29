@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jorge+Garcia+—+Software+Engineer;Backend+focused+%7C+.NET)](https://git.io/typing-svg)
 
-## 🌐 Personal Projects Portfolio (Enterprise and CV Below)
+## 🌐 Personal Projects Portfolio
 🔗 [Music Trainer](https://foxtailstudio.app/) | Next.Js | C# | PostgreSQL | Railway | June 2026
 
 🔗 [Music Portfolio](https://giorgio-moreno-portfolio.vercel.app/) | Next.Js | Redis | Resend | August 2026 
