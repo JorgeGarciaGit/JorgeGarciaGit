@@ -161,4 +161,4 @@ This practice influences my engineering approach: structured systems, controlled
 
 ## 🧭 Projects
 
-Repositories below reflect systems built from concept to production, with focus on backend design, reliability, and maintainability.
+My public repositories showcase personal projects, technical experiments, and applications built to explore software engineering concepts and technologies.
