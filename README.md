@@ -51,7 +51,7 @@ AngularJS · JavaScript · TypeScript · Next.js · HTML · CSS
 Azure DevOps · CI/CD · Git · Docker
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nextjs,angular,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nextjs,angular,py,js,html,css" />
 </p>
 
 ---
