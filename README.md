@@ -4,11 +4,11 @@ Software Engineer focused on **C#/.NET, backend systems, APIs, and enterprise ap
 
 ## 🌐 Portfolio & CV
 
-[🕵️ Job Market Terminal](https://wizzle-jobs.vercel.app/) - Link under request | Next.Js | C# | PostgreSQL | Background Workers | September 2026
+[🕵️ Job Market Terminal](https://wizzle-jobs.vercel.app/) - Link under request | Next.Js | C# | TypeScript | PostgreSQL | Background Workers | September 2026
 
-[🎸 Music Trainer](https://foxtailstudio.app/) | Next.Js | C# | PostgreSQL | Railway | June 2026
+[🎸 Music Trainer](https://foxtailstudio.app/) | Next.Js | C# | TypeScript | PostgreSQL | Railway | June 2026
 
-[🔗 Music Portfolio](https://giorgio-moreno-portfolio.vercel.app/) | Next.Js | Redis | Resend | August 2026 
+[🔗 Music Portfolio](https://giorgio-moreno-portfolio.vercel.app/) | Next.Js | TypeScript | Redis | Resend | August 2026 
 
 [📄 Download my CV](./Jorge_Garcia_CV.pdf)
 
