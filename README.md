@@ -20,7 +20,7 @@ Software Engineer focused on **C#/.NET, backend systems, APIs, and enterprise ap
 
 ## 👋 About
 
-Software Engineer with 7+ years of experience building backend systems and enterprise applications, primarily with **C#/.NET**.
+Software Engineer with 9+ years of experience building backend systems and enterprise applications, primarily with **C#/.NET**.
 
 My experience includes:
 - Backend services and REST APIs
